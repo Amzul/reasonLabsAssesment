@@ -1,0 +1,24 @@
+{
+  "name": "reasonlabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedraufofficial/reasonLabsAssesment.git"
+  },
+  "author": "Ahmed Rauf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedraufofficial/reasonLabsAssesment/issues"
+  },
+  "homepage": "https://github.com/ahmedraufofficial/reasonLabsAssesment#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "sqlite3": "^5.0.8"
+  }
+}
