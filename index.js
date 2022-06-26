@@ -11,7 +11,7 @@ function fn (str) {
     return {
         fn: function (nextStr) {
           if (!nextStr) return str
-          return fx([str, nextStr].join(' '))
+          return fn([str, nextStr].join(' '))
         }
     }
 }
